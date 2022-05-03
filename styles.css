@@ -2,7 +2,7 @@ body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
     background: #333;
-    color: rgb(227, 238, 233);
+    color: #ffffff;
     font-size: 1.1em;
     line-height: 1.5;
     text-align: center;
@@ -10,7 +10,7 @@ body {
 
 header {
     min-height: 450px;
-    color: hwb(144 95% 3%);
+    color: #ffffff;
     text-align: center;
   }
 
@@ -24,7 +24,7 @@ header {
     background-size: cover;
     width: 100%;
     height: 450px;
-8    z-index: -1;
+    z-index: -1;
     opacity: 0.4;
   }
 
